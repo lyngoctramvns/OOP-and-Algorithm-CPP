@@ -1,0 +1,18 @@
+Reading list Week 1:
+Operators:
+https://cplusplus.com/doc/tutorial/operators/
+While loops:
+https://beginnersbook.com/2017/08/cpp-while-loop/
+Exercises:
+https://www.w3resource.com/cpp-exercises/for-loop/cpp-for-loop-exercise-2.php
+Functions:
+https://www.tutorialspoint.com/cplusplus/cpp_functions.htm
+Excercises:
+https://runestone.academy/ns/books/published/cppds/Introduction/DefiningFunctions.html
+Bash:
+https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+file:
+https://en.cppreference.com/w/cpp/io/c/FILE
+
+Glossary:
+https://www.stroustrup.com/glossary.html

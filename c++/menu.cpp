@@ -13,6 +13,8 @@ int main(){
 
     switch(choice){
         case 0:
+            break;
         case 1:
+            break;
     }
 }
